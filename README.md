@@ -6,4 +6,4 @@ _Loss-Funktion_: MSE
 
 _Optimizer_: Adam
 
-_Datensatz_: https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption
+_Datensatz_: [Kaggle] https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption
